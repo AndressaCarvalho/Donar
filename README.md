@@ -1,6 +1,7 @@
 # Donar
 “Donar” é a aplicação Web para doações entre pessoas.
 “Donar” é a aplicação Web sem fins lucrativos, que conecta cidadãos que estão em condição de vulnerabilidade social, e usuários que disponibilizam ajuda. Desta forma, o sistema possibilita que uma situação de necessidade sofrida por uma pessoa seja apresentada, com o objetivo de facilitar o oferecimento de materiais e/ou serviços. Há a contribuição de avaliadores, voluntários selecionados que serão responsáveis pela verificação prévia e presencial do estado comunicado, a fim confirmar a veracidade deste. Assim que o avaliador der o seu parecer acerca da situação (que informa itens que contemplam a necessidade de cada pessoa), doações poderão ser realizadas.
+
 Tecnologias utilizadas: PHP, JavaScript, MySQL, CodeIgniter e Bootstrap.
 
 
